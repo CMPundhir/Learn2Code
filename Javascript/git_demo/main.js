@@ -1,1 +1,2 @@
-alert("Hello to Git");
+const name = prompt("Enter your name");
+alert("Hello "+name+",\nWelcome to Git.");
