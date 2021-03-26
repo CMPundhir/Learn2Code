@@ -38,7 +38,7 @@ function vowelsAndConsonants(s) {
 	}
 	for (var i = 0; i<length; i++) {
 		var c = s.charAt(i);
-		if(c != 'a' || c != 'e' || c != 'i' || c != 'o' || c != 'u'){
+		if(c !== 'a' && c !== 'e' && c !== 'i' && c !== 'o' && c !== 'u'){
 			console.log(c);
 		}
 	}
