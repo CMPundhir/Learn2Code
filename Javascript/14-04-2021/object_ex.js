@@ -13,6 +13,7 @@ var car1 = {
 	}
 }
 
+
 console.log(car1)
 
 console.log(car1.color)
@@ -27,6 +28,7 @@ var car2 = {
 		console.log("tuk tuk...")
 	}
 }
+
 
 console.log(car2)
 
