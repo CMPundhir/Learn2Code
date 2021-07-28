@@ -1,6 +1,3 @@
-'''
-
-'''
 
 f1 = open("god_pranshu.txt" , "w")
 
